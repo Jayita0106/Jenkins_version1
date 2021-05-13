@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi this is in master branch checking merge
-=======
-Hi this is in feature branch.
->>>>>>> feature
+Hi this is in master branch checking merge.
