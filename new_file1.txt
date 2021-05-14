@@ -1,2 +1,0 @@
-Hi this is in master branch checking merge.
-Hi!
